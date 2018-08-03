@@ -1,0 +1,25 @@
+{
+  "name": "hw12-fullstackapp",
+  "version": "1.0.0",
+  "description": "hw12",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRRiley12790/HW12-FullStackApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CRRiley12790/HW12-FullStackApp/issues"
+  },
+  "homepage": "https://github.com/CRRiley12790/HW12-FullStackApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
